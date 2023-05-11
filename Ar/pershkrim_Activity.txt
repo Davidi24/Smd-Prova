@@ -1,0 +1,33 @@
+Geolocation Services-
+Ne fillim useri do hapi location service,do behet detect user location
+user do vendosi perferncat e tij,pastaj do restorantet do filtrohen sipas,preferencave
+ose distances, te dyja kto do bejn sort resotrantet,pastja do dali nj list me restorante 
+ku useri do selektoj ate q ka qef.Ne fund do japi vendodhjen  
+
+In-App messaging
+ne fillim do marri confirmimin e porosis,do shofi detajet,per te ber ndrryshime do shkoj tek
+delivery status,delivery personel do e pranoj ndrryshimin, do jepet komfirmimi, dhe do marri nj 
+feedback
+
+LoyaltyProgramms-
+do rregjistrohen per nje loyalty programm,do marrin oferten qe sapo jan rregjistruar
+ne fillim do marrim oferten e pare.Pastaj mund te marrin oferta ose zbritje te tjera,qe
+cojn
+
+Discount changes-
+do kontrroljn restorantet qe kan ulje,do e filtroj sipas kuzhines,do zgjedhi restorantin
+do jepet porosia,pasi do behet porosia do jepet fatura, nqs fatura ta arritur cmimin e percaktuar
+per ulje(psh siper 50mij lek)do behet nj ulje nqs jo nk ka ulje, pasi ndodhin te dyja do jepet 
+fatura fiks
+
+Custmorer Support
+do ndahet ne dy pjes
+Pjesa e tech support:
+do marri requestin qe ka nje problem,do analizoj problemin,nqs u gjet problemi
+implemento zgjidhjen,nqs problemi nk u gjend rishiko problemin,jep zgjidhjen perkatse
+pasi kan ndodhur kto t dyja, testo zgjidhjen, dhe beni update 
+user:
+useri gjen nje problem, do kontaktoj me support grup,do i shpjegoj problemin qe ka
+nqs duhet me shum info do ja japi,nqs nk ka nevoj per m shum info nk do japi m shm info.
+do rikontaktoj assistance support,kta do japin zgjidhjen dhe user do marri help 
+per ate q ka nevoj
